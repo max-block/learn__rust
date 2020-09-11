@@ -6,7 +6,6 @@ fn current_time() {
     // SystemTime { tv_sec: 1599461835, tv_nsec: 433910000 }
 }
 
-
 fn main() {
     current_time();
 }

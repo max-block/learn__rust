@@ -1,0 +1,15 @@
+**** ACTIVE ****
+
+1) What is a function attribute? How to make a custom function attribute?
+#[my_test]
+fn f1() {}
+
+2) How to check where a variable is stored in memory: heap or stack?
+
+3) Why we have to type `&str` instead of just `str`?
+
+4) Is async/await one thread like in Node.JS? Will the whole loop be blocked by heavy calc func?
+
+
+
+**** DONE ****
