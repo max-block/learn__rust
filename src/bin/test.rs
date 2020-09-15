@@ -1,5 +1,6 @@
 fn main() {
-    let v1 = 1;
-    let v2 = String::from("f");
-    println!("{:p} {:p}", &v1, &v2);
+    let arr = [1u8, 2, 3, 4, 5, 6, 7, 8, 9, 0];
+
+    let a = &arr[2..=99];
+    println!("{:?}", a);
 }

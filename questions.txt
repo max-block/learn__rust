@@ -10,6 +10,16 @@ fn f1() {}
 
 4) Is async/await one thread like in Node.JS? Will the whole loop be blocked by heavy calc func?
 
+5) What is the difference between 'const' and 'static'? 'static' has a fixed memory location, but how can a 'const'
+change a memory location?
+
+7) What is #[macro_use]?
+
+8) How to catch panic!? rouille can do it
+
+9) How this `rustup override set nightly` works?
 
 
 **** DONE ****
+
+6) What is turbofish?
