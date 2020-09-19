@@ -1,0 +1,4 @@
+https://github.com/passcod/cargo-watch
+
+cargo-watch -x "run"
+cargo-watch -x "run --bin cmd1"
