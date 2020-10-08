@@ -19,6 +19,12 @@ change a memory location?
 
 9) How this `rustup override set nightly` works?
 
+10) What are affine types?
+
+11) References vs pointers?
+
+12) What is monomorphization?
+
 
 **** DONE ****
 

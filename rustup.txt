@@ -1,0 +1,2 @@
+-> switch in a project
+$ rustup default nightly
